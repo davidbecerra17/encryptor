@@ -1,4 +1,5 @@
-![EDUCACION](img/EDUCACION.PNG)
+![EDUCACION](img/EDUCACION.png)
+
 **Instituto Tecnológico de Tijuana**    
 **Subdirección Académica**  
 **Departamento de Sistemas y Computación**  
